@@ -1,4 +1,4 @@
-def NameError
+var NameError
   
   describe "Not having any errors and being all green" do
 
