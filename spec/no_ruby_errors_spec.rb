@@ -1,4 +1,4 @@
-def 'NameError'
+def 'Not having any errors and being all green'
   
 describe "Not having any errors and being all green" do
 
